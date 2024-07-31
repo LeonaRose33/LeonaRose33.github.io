@@ -687,6 +687,14 @@ color : rgb(12, 49, 83)
   width: 100%;
 }
 
+
+.grid-item {
+    padding: 20px;
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
 .team_section .team_box .detail-box {
   position: absolute;
   top: 0;
