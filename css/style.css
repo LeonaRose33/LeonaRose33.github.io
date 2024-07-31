@@ -687,7 +687,11 @@ color : rgb(12, 49, 83)
   width: 100%;
 }
 
-
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Create 3 equal columns */
+    gap: 10px; /* Space between columns */
+}
 .grid-item {
     padding: 20px;
     background-color: #f1f1f1;
