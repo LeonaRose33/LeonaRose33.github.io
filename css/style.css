@@ -89,6 +89,10 @@ body {
   color: #ffffff;
 }
 
+.detail_box h2 {
+color: rgb(255, 0, 102)
+}
+
 .text_center {
   text-align: center;
 }
