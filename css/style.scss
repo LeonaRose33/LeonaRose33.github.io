@@ -249,7 +249,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: rgba($color: darken($primary1, 5), $alpha: 0.95);
+  background-color: gradial-gradient(ellipse at top, #64e6e6, #3a25b0);
   overflow-x: hidden;
   transition: 0.5s;
 
