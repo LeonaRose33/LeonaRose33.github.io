@@ -403,7 +403,9 @@ a:focus {
           flex: 3;
   padding: 0;
 }
-
+.detail-box {
+color : red
+}
 .slider_section .img-box img {
   width: 100%;
 }
@@ -450,7 +452,7 @@ a:focus {
 }
 
 .about_section .detail-box {
-  background-color: #236b8a;
+  background-color: #fff;
   padding: 0 20px;
 }
 
