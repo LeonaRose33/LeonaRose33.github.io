@@ -132,7 +132,7 @@ body {
 
 .navbar-brand span {
   font-weight: 700;
-  color: #000000;
+  color: #b300a7;
   font-size: 24px;
   text-transform: uppercase;
 }
@@ -145,7 +145,7 @@ body {
 .custom_nav-container .call_btn {
   display: inline-block;
   background-color: #ffffff;
-  color: #b300a7;
+  color: #000000;
   padding: 8px 25px;
   border: 1px solid #ffffff;
   border-radius: 0;
