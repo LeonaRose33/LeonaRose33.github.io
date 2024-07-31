@@ -145,7 +145,7 @@ body {
 .custom_nav-container .call_btn {
   display: inline-block;
   background-color: #ffffff;
-  color: #000000;
+  color: #b300a7;
   padding: 8px 25px;
   border: 1px solid #ffffff;
   border-radius: 0;
@@ -815,7 +815,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #762500;
+  background-color: #242f31;
   color: #ffffff;
   padding: 0 15px;
 }
