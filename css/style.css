@@ -233,7 +233,7 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #3eb0e1;
+  background-color: gradial-gradient(ellipse at top, #64e6e6, #3a25b0),;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
