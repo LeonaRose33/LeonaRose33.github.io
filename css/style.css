@@ -692,11 +692,7 @@ color : rgb(12, 49, 83)
     grid-template-columns: repeat(3, 1fr); /* Create 3 equal columns */
     gap: 20px; /* Space between columns */
 }
-.grid-container4 {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr); /* Create 4 equal columns */
-    gap: 20px; /* Space between columns */
-}
+
 .grid-item {
     padding: 10px;
     background-color: #f1f1f1;
