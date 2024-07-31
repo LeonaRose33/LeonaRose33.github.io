@@ -72,7 +72,7 @@ body {
 }
 
 .detail_box_common {
-  background-color: #022842;
+  background-color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -404,7 +404,7 @@ a:focus {
   padding: 0;
 }
 .detail-box {
-color : red
+color : rgb(29, 74, 114)
 }
 .slider_section .img-box img {
   width: 100%;
