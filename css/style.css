@@ -683,8 +683,13 @@ color : rgb(12, 49, 83)
   margin: 25px 0;
 }
 
-.team_section .team_box .img-box img {
+.team_section .team_box img {
   width: 100%;
+}
+
+
+.img-box img {
+  height: 100%;
 }
 
 .team_section .team_box .detail-box {
